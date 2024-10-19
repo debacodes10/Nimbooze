@@ -60,29 +60,6 @@ To install and run **Project Nimbooze**, follow these steps:
 - Note Taking: Create and store notes in a simple and fast way using text files.
 - System Information: Access memory, storage, and CPU usage information with simple commands.
 
-## Directory Structure
-
-Nimbooze/
-│
-├── nimbooze/                   # Core application code
-│   ├── media_control.py       # Controls local media and Spotify playback
-│   ├── browser_control.py     # Controls browser tabs and operations
-│   ├── note_manager.py        # Handles note-taking functionality
-│   ├── system_info.py         # Retrieves system-related information
-│   └── __init__.py
-│
-├── utils/                     # Utility functions and helpers
-│   ├── config.py              # Configuration settings
-│   ├── logger.py              # Logging functionality
-│   └── helpers.py             # Additional helper functions
-│
-├── tests/                     # Test cases for the project
-│   └── test_nimbooze.py         # Unit tests
-│
-├── requirements.txt           # List of dependencies
-├── README.md                  # Project documentation
-└── main.py                    # Entry point for running the application
-
 ## Future Plans
 
 - Voice Command Integration: Add voice commands to control media and system operations.
