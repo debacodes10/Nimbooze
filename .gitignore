@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Python-related
+*.pyo
+*.pyd
+*.whl
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Unit test / Coverage reports
+.coverage
+.tox/
+.nox/
+.cache
+pytest_cache/
+
+# Caches
+*.mypy_cache/
+*.coverage
+*.hypothesis/
+.pytest_cache/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Miscellaneous
+*.swp
+*~
