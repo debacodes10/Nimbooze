@@ -1,6 +1,6 @@
-# Project Nimbus
+# Project Nimbooze
 
-**Project Nimbus** is a lightweight and friendly utility tool designed to streamline everyday tasks. It integrates control for media (music, video), browser management, note-taking, and system information retrieval, all in one place. 
+**Project Nimbooze** is a lightweight and friendly utility tool designed to streamline everyday tasks. It integrates control for media (music, video), browser management, note-taking, and system information retrieval, all in one place. 
 
 ## Features
 
@@ -37,12 +37,12 @@
 
 ## Installation
 
-To install and run **Project Nimbus**, follow these steps:
+To install and run **Project Nimbooze**, follow these steps:
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yourusername/nimbus.git
-   cd nimbus
+   git clone https://github.com/yourusername/nimbooze.git
+   cd nimbooze
 
 2. Instll the required dependencies:
     ```bash
