@@ -273,15 +273,15 @@ class SystemInfo:
         }
 
 # Example usage
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    # folder_name = input("Enter the name of the folder to inspect: ")
-    # result = SystemInfo.find_and_inspect_folder(folder_name, start_dir="/")
-    # if isinstance(result, str):
-    #     print(result)
+#     folder_name = input("Enter the name of the folder to inspect: ")
+#     result = SystemInfo.find_and_inspect_folder(folder_name, start_dir="/")
+#     if isinstance(result, str):
+#         print(result)
 
-    info = SystemInfo.get_all_info()
-    for key, value in info.items():
-        print(f"{key}:\n", value, "\n")
+#     info = SystemInfo.get_all_info()
+#     for key, value in info.items():
+#         print(f"{key}:\n", value, "\n")
 
 
