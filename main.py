@@ -60,11 +60,11 @@ def note_taking_menu():
     """Submenu for managing notes."""
     while True:
         print("\n--- Note-Taking Utility ---")
-        print("1. Add a note")
-        print("2. List notes")
-        print("3. Mark a note as done")
-        print("4. Delete a note")
-        print("5. Return to main menu")
+        print("add - Add a note")
+        print("list - List notes")
+        print("mark - Mark a note as done")
+        print("del - Delete a note")
+        print("back - Return to main menu")
 
         choice = input("Choose an option (1-5): ")
 
