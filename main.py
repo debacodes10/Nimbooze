@@ -1,5 +1,6 @@
 from utils import SystemInfo
-from utils import NoteTaking  # Import the note-taking utility
+from utils import NoteTaking 
+from utils import VoiceConversion
 
 def main():
     while True:
